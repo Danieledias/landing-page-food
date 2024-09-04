@@ -23,7 +23,7 @@ const Testimonials = () => {
 
                             <div className="feedback-content">
                                 <p>
-                                    Fulana de Tal
+                                    Ana Silva
                                     <span>
                                         <i className='fa-solid fa-star'></i>
                                         <i className='fa-solid fa-star'></i>
@@ -33,8 +33,8 @@ const Testimonials = () => {
                                     </span>
                                 </p>
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing industry.
-                                    Lorem Ipsum is simply dummy text of the printing industry.
+                                    A experiência foi incrível! Os pratos são deliciosos e frescos, e o atendimento é impecável.
+                                    Recomendo a todos que buscam uma refeição saborosa e bem preparada.
                                 </p>
                             </div>
                         </div>
@@ -44,7 +44,7 @@ const Testimonials = () => {
 
                             <div className="feedback-content">
                                 <p>
-                                    Fulana de Tal
+                                    Carla Oliveira
                                     <span>
                                         <i className='fa-solid fa-star'></i>
                                         <i className='fa-solid fa-star'></i>
@@ -54,8 +54,8 @@ const Testimonials = () => {
                                     </span>
                                 </p>
                                 <p>
-                                    Lorem Ipsum is simply dummy text of the printing industry.
-                                    Lorem Ipsum is simply dummy text of the printing industry.
+                                    Adorei o sanduíche natural de frango e o macarrão com camarão.
+                                    Cada prato é feito com cuidado e tem um sabor único. Sem dúvida, voltarei mais vezes!
                                 </p>
                             </div>
                         </div>

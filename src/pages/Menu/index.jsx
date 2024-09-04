@@ -25,11 +25,11 @@ const Menu = () => {
                     <img src={Dish1} alt='imagem de prato' className='dish-image' />
 
                     <h3 className='dish-title'>
-                        Lorem Ipsum
+                    Frango Fusion ao Estilo Asiático
                     </h3>
 
                     <span className='dish-description'>
-                    Lorem Ipsum is simply dummy text of the printing industry.
+                    Frango suculento, cebola crocante, tomate fresco e camarões, com um toque de especiarias asiáticas
                     </span>
 
                     <div className='dish-rate'>
@@ -57,11 +57,11 @@ const Menu = () => {
                     <img src={Dish2} alt='imagem de prato' className='dish-image' />
 
                     <h3 className='dish-title'>
-                        Lorem Ipsum
+                    Sanduíche Natural de Frango
                     </h3>
 
                     <span className='dish-description'>
-                    Lorem Ipsum is simply dummy text of the printing industry.
+                    Frango desfiado, tomate fresco e um toque leve de tempero, servido em pão integral.
                     </span>
 
                     <div className='dish-rate'>
@@ -74,7 +74,7 @@ const Menu = () => {
                     </div>
 
                     <div className="dish-price">
-                        <h4>R$ 20,00</h4>
+                        <h4>R$ 10,00</h4>
                         <button className='btn-default'>
                             <i class="fa-solid fa-basket-shopping"></i>
                         </button>
@@ -89,11 +89,11 @@ const Menu = () => {
                     <img src={Dish3} alt='imagem de prato' className='dish-image' />
 
                     <h3 className='dish-title'>
-                        Lorem Ipsum
+                    Salada Tropical de Kiwi e Morango
                     </h3>
 
                     <span className='dish-description'>
-                    Lorem Ipsum is simply dummy text of the printing industry.
+                    Uma refrescante mistura de kiwi, morango e grãos, perfeita para uma explosão de sabores e texturas.
                     </span>
 
                     <div className='dish-rate'>
@@ -106,7 +106,7 @@ const Menu = () => {
                     </div>
 
                     <div className="dish-price">
-                        <h4>R$ 20,00</h4>
+                        <h4>R$ 15,00</h4>
                         <button className='btn-default'>
                             <i class="fa-solid fa-basket-shopping"></i>
                         </button>
@@ -121,11 +121,11 @@ const Menu = () => {
                     <img src={Dish4} alt='imagem de prato' className='dish-image' />
 
                     <h3 className='dish-title'>
-                        Lorem Ipsum
+                    Macarrão Mediterrânea com Camarão
                     </h3>
 
                     <span className='dish-description'>
-                    Lorem Ipsum is simply dummy text of the printing industry.
+                    Macarrão com camarão, tomate fresco e legumes salteados, em um prato cheio de sabor e frescor.
                     </span>
 
                     <div className='dish-rate'>

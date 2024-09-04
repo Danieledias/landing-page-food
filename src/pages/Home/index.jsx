@@ -46,12 +46,11 @@ const Home = () => {
                         </h1>
 
                         <p className='description'>
-                            Lorem Ipsum is simply dummy text of the printing industry.
-                            Lorem Ipsum has been the industry's standard
+                        Transforme seus momentos em uma explosão de sabores inesquecíveis.
                         </p>
 
                         <div id='cta-buttons'>
-                            <a href='#' className='btn-default'>
+                            <a href='#menu' className='btn-default'>
                                 Ver cardápio
                             </a>
 
