@@ -7,7 +7,10 @@ Este projeto é uma landing page desenvolvida para apresentar uma oferta de prat
 
 Destaque especial: Utilizei a biblioteca ScrollReveal.js para criar efeitos visuais interessantes durante o scroll, proporcionando uma experiência de navegação mais dinâmica e envolvente.
 
-**Acesse a demonstração online do projeto:** https://landing-page-food-kohl.vercel.app/
+---
+🔗 **Link do Projeto**
+
+ https://landing-page-food-kohl.vercel.app/
 
 ---
 
