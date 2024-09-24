@@ -5,7 +5,7 @@
 
 Este projeto é uma landing page desenvolvida para apresentar uma oferta de pratos de forma atraente e acessível. A página é responsiva, garantindo uma experiência de usuário consistente em diferentes dispositivos, desde desktops até smartphones.
 
-Destaque especial: Utilizei a biblioteca ScrollReveal.js para criar efeitos visuais interessantes durante o scroll, proporcionando uma experiência de navegação mais dinâmica e envolvente.
+Destaque especial: Utilizei a biblioteca ScrollReveal.js para criar efeitos visuais interessantes durante o scroll, proporcionando uma experiência de navegação mais dinâmica.
 
 ---
 🔗 **Link do Projeto**
